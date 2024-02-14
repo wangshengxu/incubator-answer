@@ -41,7 +41,12 @@ const Index = () => {
             </a>
             - the open-source software that powers Q&A communities.
             <br />
-            Made with love. © 2022 Answer.
+            Made with love. ? 2022 Answer.
+            <br />
+            {/* eslint-disable-next-line react/jsx-no-target-blank */}
+            <a href="https://beian.miit.gov.cn" target="_blank">
+              皖ICP备2023017005号
+            </a>
           </Trans>
         </p>
       </Container>
