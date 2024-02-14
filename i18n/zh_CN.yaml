@@ -835,7 +835,7 @@ ui:
       placeholder: 搜索
   footer:
     build_on: >-
-      由 <1>Apache Answer</1> 提供动力 - 驱动问答社区的开源软件。<br />用爱制造 © {{cc}}.
+      由 <1>Apache Answer</1> 提供动力 - 驱动问答社区的开源软件。<br />用爱制造 © {{cc}}.<br /><1>皖ICP备2023017005号</1>
   upload_img:
     name: 更改
     loading: 加载中...
